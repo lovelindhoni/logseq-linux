@@ -89,6 +89,30 @@ module.exports = {
       config: {
         mimeType: ["x-scheme-handler/logseq"]
       }
+    },
+    {
+      name: '@electron-forge/maker-deb',
+      platforms: ['linux'],
+      config: {
+        options: {
+          maintainer: 'Lovelin Dhoni'
+        },
+        name: 'logseq',
+        productName: 'logseq',
+        categories : ["Development", "Education", "Office", "Utility"]
+      }
+    },
+    {
+      name: '@electron-forge/maker-rpm',
+      platforms: ['linux'],
+      config: {
+        options: {
+          maintainer: 'Lovelin Dhoni'
+        },
+        name: 'logseq',
+        productName: 'logseq',
+        categories : ["Development", "Education", "Office", "Utility"]
+      }
     }
   ],
 

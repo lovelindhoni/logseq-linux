@@ -54,6 +54,7 @@
 
 ## Table of Contents
 
+  * [<g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> Why this repo exists?](#-why-this-repo-exists?)
   * [<g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> Why Logseq?](#-why-logseq)
   * [<g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> How can I use it?](#-how-can-i-use-it)
   * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Learn more](#-learn-more)
@@ -65,6 +66,13 @@
   * [<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Inspiration](#-inspiration)
 * [<g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji> Thank You](#-thank-you)
 
+## 🤔 Why this repo exists?
+
+I use fedora and I am not a fan of appimages for some reason. DEB and RPM packages are in the [releases](https://github.com/lovelindhoni/logseq-linux/releases) page. 
+
+> [!NOTE]  
+> These packages are built for my personal use case. They may or may not work on your machine.
+
 ## 🤔 Why Logseq?
 
 [Logseq](https://logseq.com) is a **knowledge management** and **collaboration** platform. It focuses on **privacy**, **longevity**, and [**user control**](https://www.gnu.org/philosophy/free-sw.en.html). Logseq offers a range of **powerful tools** for **knowledge management**, **collaboration**, **PDF annotation**, and **task management** with support for multiple file formats, including **Markdown** and **Org-mode**, and **various features** for organizing and structuring your notes.
@@ -75,7 +83,7 @@ In addition to its core features, Logseq has a growing ecosystem of **plugins** 
 
 ![logseq-demo](https://user-images.githubusercontent.com/25513724/221387376-4dc419c2-0d0a-460c-a920-2d211e78b456.gif)
 
-<a href="https://github.com/logseq/logseq/releases/latest/">
+<a href="https://github.com/logseq/logseq-linux/releases/">
         <img src="https://img.shields.io/badge/Download_Logseq-100000?style=for-the-badge&logo=flatpak&logoColor=white&labelColor=002b36&color=85c8c8"
             align="right"
             alt="Download Logseq"/></a>
@@ -84,7 +92,7 @@ In addition to its core features, Logseq has a growing ecosystem of **plugins** 
 
 To start using Logseq, follow these simple steps:
 
-1. [Download](https://github.com/logseq/logseq/releases/latest) the latest version of Logseq
+1. [Download](https://github.com/logseq/logseq-linux/releases/latest) the latest version of Logseq
 2. Install Logseq on your device and launch the application
 3. Start writing ✍️
 
